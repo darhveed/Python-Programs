@@ -1,3 +1,4 @@
+#Dictionaries = collection of {key : values} pairs ordered and changeable
 capitals =  {"USA": "Washington D.C.",
              "Nigeria": "Abuja",
              "Ghana": "Accra",
